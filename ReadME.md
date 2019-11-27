@@ -21,7 +21,7 @@ In file FinalIncome.py, uncomment the model that you want to use for prediction 
 
 Run the command python FinalIncome.py
 
-After a wait of few minutes the predicted result in generated in the file New_tcd-ml-1920-group-income-submission.csv.csv
+ALet the model train & the predicted result in generated in the file New_tcd-ml-1920-group-income-submission.csv
 
 ## Project Flow
 
@@ -30,5 +30,5 @@ After a wait of few minutes the predicted result in generated in the file New_tc
 3. Merge both the set and pre-process data (remove outlier/target mean encoding)
 4. Split the dataset into train and test dataset
 5. Performs training of the model on the training dataset
-6. Returns CSV for the prediction of income on the test dataset : New_tcd-ml-1920-group-income-submission.csv.csv
+6. Returns CSV for the prediction of income on the test dataset : New_tcd-ml-1920-group-income-submission.csv
 
